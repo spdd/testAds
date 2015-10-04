@@ -2,13 +2,13 @@
   "status": "ok",
   "ads_interstitial": [
   {
-    "adname": "admob",
-    "admob_id": "ca-app-pub-9692610173697432/7598306674"
-  }, 
-  {
     "adname": "chartboost",
     "cb_appId": "543ddba6c26ee43759168948",
     "cb_appSigh": "0602fa5275d280fc9e2cc3bfe29cb2f930a8fdd8"
+  }, 
+  {
+    "adname": "admob",
+    "admob_id": "ca-app-pub-9692610173697432/7598306674"
   }],
   "ads_video": [
   {
