@@ -18,7 +18,7 @@
   }, 
   {
     "adname": "unity_ads",
-    "unity_ads_id": ""
+    "unity_ads_id": "123456"
   },
   {
     "adname": "adcolony",
@@ -30,7 +30,7 @@
     "adname": "image",
     "banner_url": "http://orig06.deviantart.net/74f1/f/2010/101/9/c/defcon_256_png_icon_by_kingreverant.png",
     "store_url": "com.if3games.whatstheword.rebusrus",
-	"app_descr":"App Test From Server"
+  "app_descr":"App Test From Server"
   }],
   "precache_video": [
   {
