@@ -18,12 +18,12 @@
   }, 
   {
     "adname": "unity_ads",
-    "cb_id": "",
-    "cb_sigh": ""
+    "unity_ads_id": ""
   },
   {
     "adname": "adcolony",
-    "adcolony_id": "null"
+    "ac_appId": "app000c69c7bbd8452ba0",
+    "ac_zoneId": "vz692700c8578041fb84"
   }],
   "precache_interstitial": [
   {
@@ -31,5 +31,12 @@
     "banner_url": "http://orig06.deviantart.net/74f1/f/2010/101/9/c/defcon_256_png_icon_by_kingreverant.png",
     "store_url": "com.if3games.whatstheword.rebusrus",
 	"app_descr":"App Test From Server"
+  }],
+  "precache_video": [
+  {
+    "adname": "image",
+    "banner_url": "http://orig06.deviantart.net/74f1/f/2010/101/9/c/defcon_256_png_icon_by_kingreverant.png",
+    "store_url": "com.if3games.whatstheword.rebusrus",
+  "app_descr":"App Test From Server"
   }]
 }
