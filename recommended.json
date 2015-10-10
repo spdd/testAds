@@ -5,41 +5,41 @@
     "app_name": "Rebus 1",
     "app_descr": "From git",
     "app_package": "com.if3games.rebusrus",
-    "app_icon": ""
+    "app_icon": "reb"
   }, 
   {
     "app_name": "Rebus 2",
     "app_descr": "From git",
     "app_package": "com.if3games.rebusrus",
-    "app_icon": ""
+    "app_icon": "reb"
   }, 
   {
     "app_name": "Rebus 3",
     "app_descr": "From git",
     "app_package": "com.if3games.rebusrus",
-    "app_icon": ""
+    "app_icon": "reb"
   }, 
   {
     "app_name": "Rebus 4",
     "app_descr": "From git",
     "app_package": "com.if3games.rebusrus",
-    "app_icon": ""
+    "app_icon": "reb"
   }],
   "apptypes": [
   {
-    "type": "0",
+    "type": 0,
     "rec_id": "p1"
   },
   {
-    "type": "0",
+    "type": 0,
     "rec_id": "p2"
   },
   {
-    "type": "0",
+    "type": 0,
     "rec_id": "p3"
   },
   {
-    "type": "1",
+    "type": 1,
     "rec_id": "p4"
   }]
 }
