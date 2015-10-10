@@ -27,20 +27,19 @@
   }],
   "apptypes": [
   {
-    "type": 0,
+    "type": "0",
     "rec_id": "p1"
   },
   {
-    "type": 0,
+    "type": "0",
     "rec_id": "p2"
   },
   {
-    "type": 0,
+    "type": "0",
     "rec_id": "p3"
   },
   {
-    "type": 1,
+    "type": "1",
     "rec_id": "p4"
-  }
-  ]
+  }]
 }
