@@ -1,28 +1,29 @@
 {
   "status": "ok",
+  "id":5,
   "recs": [
   {
     "app_name": "Rebus 1",
     "app_descr": "From git",
     "app_package": "com.if3games.rebusrus",
-    "app_icon": "reb"
+    "app_icon": "http://icons.iconarchive.com/icons/igh0zt/ios7-style-metro-ui/128/MetroUI-Apps-Mac-App-Store-icon.png"
   }, 
   {
     "app_name": "Rebus 2",
     "app_descr": "From git",
-    "app_package": "com.if3games.rebusrus",
-    "app_icon": "reb"
+    "app_package": "com.if3games.rebusrus2",
+    "app_icon": "https://devimages.apple.com.edgekey.net/assets/elements/icons/96x96/testflight.png"
   }, 
   {
     "app_name": "Rebus 3",
     "app_descr": "From git",
-    "app_package": "com.if3games.rebusrus",
-    "app_icon": "reb"
+    "app_package": "com.if3games.rebusrus3",
+    "app_icon": "http://iconsat.com/fulli/96px/Apps-Camera-B-icon.png"
   }, 
   {
     "app_name": "Rebus 4",
     "app_descr": "From git",
-    "app_package": "com.if3games.rebusrus",
+    "app_package": "com.if3games.rebusrus4",
     "app_icon": "reb"
   }],
   "apptypes": [
