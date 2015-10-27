@@ -1,42 +1,43 @@
 {
   "status": "ok",
+  "show_freq": 6,
   "ads_interstitial": [
   {
-    "adname": "chartboost",
-    "cb_appId": "543ddba6c26ee43759168948",
-    "cb_appSigh": "0602fa5275d280fc9e2cc3bfe29cb2f930a8fdd8"
-  }, 
-  {
     "adname": "admob",
-    "admob_id": "ca-app-pub-9692610173697432/7598306674"
+    "admob_id": "1"
+  },
+  {
+    "adname": "chartboost",
+    "cb_appId": "1",
+    "cb_appSigh": "2"
   }],
   "ads_video": [
   {
-    "adname": "chartboost",
-    "cb_appId": "543ddba6c26ee43759168948",
-    "cb_appSigh": "0602fa5275d280fc9e2cc3bfe29cb2f930a8fdd8"
-  }, 
-  {
     "adname": "unity_ads",
-    "unity_ads_id": "123456"
+    "unity_ads_id": "1008062"
+  },
+  {
+    "adname": "chartboost",
+    "cb_appId": "1",
+    "cb_appSigh": "1"
   },
   {
     "adname": "adcolony",
-    "ac_appId": "app000c69c7bbd8452ba0",
-    "ac_zoneId": "vz692700c8578041fb84"
+    "ac_appId": "1",
+    "ac_zoneId": "1"
   }],
   "precache_interstitial": [
   {
     "adname": "image",
-    "banner_url": "http://orig06.deviantart.net/74f1/f/2010/101/9/c/defcon_256_png_icon_by_kingreverant.png",
-    "store_url": "com.if3games.whatstheword.rebusrus",
-  "app_descr":"App Test From Server"
+    "banner_url": "http://a4.mzstatic.com/eu/r30/Purple5/v4/1f/91/ed/1f91ed1c-f03c-8e58-35bf-644cb8d76b6e/icon320x320.png",
+    "store_url": "com.if3games.whatstheword.fourpicsonewordrus",
+  "app_descr":"Наша игра - Угадай слово!"
   }],
   "precache_video": [
   {
     "adname": "image",
-    "banner_url": "http://orig06.deviantart.net/74f1/f/2010/101/9/c/defcon_256_png_icon_by_kingreverant.png",
-    "store_url": "com.if3games.whatstheword.rebusrus",
-  "app_descr":"App Test From Server"
+    "banner_url": "http://a4.mzstatic.com/eu/r30/Purple5/v4/1f/91/ed/1f91ed1c-f03c-8e58-35bf-644cb8d76b6e/icon320x320.png",
+    "store_url": "com.if3games.whatstheword.fourpicsonewordrus",
+  "app_descr":"Наша игра - Угадай слово!"
   }]
 }
