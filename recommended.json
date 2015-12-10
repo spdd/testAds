@@ -1,7 +1,13 @@
 {
   "status": "ok",
-  "id":6,
+  "id":8,
   "recs": [
+  {
+    "app_name": "Ребусы 2: Темы",
+    "app_descr": "продолжение первой части",
+    "app_package": "com.if3games.whatstheword.rebusrus2",
+    "app_icon": "ic_reb"
+  }, 
   {
     "app_name": "Ребусы",
     "app_descr": "разгадай ребусы",
@@ -9,17 +15,17 @@
     "app_icon": "ic_reb"
   }, 
   {
-    "app_name": "Угадай слово!",
-    "app_descr": "угадывай слова!",
-    "app_package": "com.if3games.whatstheword.fourpicsonewordrus",
-    "app_icon": "ic_guess_the_word_rus"
-  }, 
-  {
     "app_name": "Найди слова",
     "app_descr": "соедини буквы!",
     "app_package": "com.if3games.findword",
     "app_icon": "ic_find_word_rus"
   },
+  {
+    "app_name": "Угадай слово!",
+    "app_descr": "угадывай слова!",
+    "app_package": "com.if3games.whatstheword.fourpicsonewordrus",
+    "app_icon": "ic_guess_the_word_rus"
+  }, 
     {
       "app_name": "Угадай цвет!",
       "app_descr": "эти цвета повсюду",
@@ -154,7 +160,7 @@
       "rec_id": "p9"
     },
     {
-      "type": 1,
+      "type": 0,
       "rec_id": "p10"
     },
     {
@@ -192,5 +198,9 @@
     {
       "type": 1,
       "rec_id": "p19"
+    },
+    {
+      "type": 1,
+      "rec_id": "p20"
   }]
 }
