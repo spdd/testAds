@@ -1,0 +1,57 @@
+{
+  "status": "ok",
+  "show_freq": 6,
+  "ads_interstitial": [
+  {
+    "adname": "admob",
+    "admob_inter_id": "ca-app-pub-9692610173697432/1323575076",
+    "admob_banner_id": "ca-app-pub-9692610173697432/9126043473",
+    "admob_reward_id": "0"
+  },
+  {
+    "adname": "chartboost",
+    "cb_appId": "57ce83e343150f3ec40cffb3",
+    "cb_appSigh": "447714f261bcb534e650b280e94c8680593acb95"
+  },
+  {
+    "adname": "applovin",
+    "applovin_key": "6vKs2unHbhKoKuhFKT8NOdBoTJO20pg7i_zmtk1TQMGmEy_TQ7xqm6bDP_GPpxWVxUFpCHHddTNtVMQwTLlERL"
+  }],
+  "ads_video": [
+  {
+    "adname": "unity_ads",
+    "unity_ads_id": "1134517"
+  },
+  {
+    "adname": "chartboost",
+    "cb_appId": "57ce83e343150f3ec40cffb3",
+    "cb_appSigh": "447714f261bcb534e650b280e94c8680593acb95"
+  },
+  {
+    "adname": "admob",
+    "admob_reward_id": "ca-app-pub-9692610173697432/2800308273"
+  },
+  {
+    "adname": "adcolony",
+    "ac_appId": "appb38f9e97774f489586",
+    "ac_zoneId": "vzb3d847ab96144d5382"
+  },
+  {
+    "adname": "applovin",
+    "applovin_key": "6vKs2unHbhKoKuhFKT8NOdBoTJO20pg7i_zmtk1TQMGmEy_TQ7xqm6bDP_GPpxWVxUFpCHHddTNtVMQwTLlERL"
+  }],
+  "precache_interstitial": [
+  {
+    "adname": "image",
+    "banner_url": "http://a3.mzstatic.com/us/r30/Purple3/v4/71/3d/69/713d6991-fa28-d722-10e6-5e3d8d72d774/icon175x175.jpeg",
+    "store_url": "com.if3games.whatstheword.rebusrus2",
+  "app_descr":"Ребусы 2: Темы"
+  }],
+  "precache_video": [
+  {
+    "adname": "image",
+    "banner_url": "http://a3.mzstatic.com/us/r30/Purple3/v4/71/3d/69/713d6991-fa28-d722-10e6-5e3d8d72d774/icon175x175.jpeg",
+    "store_url": "com.if3games.whatstheword.fourpicsonewordrus",
+  "app_descr":"Наша игра - Угадай слово!"
+  }]
+}
